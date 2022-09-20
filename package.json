@@ -1,5 +1,5 @@
 {
-  "name": "random-str-msg",
+  "name": "@mon4ssi/random-str-msg",
   "version": "1.0.0",
   "description": "Random String Messages",
   "main": "index.js",
