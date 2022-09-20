@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mon4ssi/random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Monassi Carrasco <mon4ssi@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mon4ssi/random-str-msg/issues"
+  },
+  "homepage": "https://github.com/mon4ssi/random-str-msg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
