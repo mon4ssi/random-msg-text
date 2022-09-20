@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mon4ssi/random-str-msg.git"
+    "url": "git+https://github.com/mon4ssi/random-msg-text.git"
   },
   "keywords": [],
   "author": "Monassi Carrasco <mon4ssi@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mon4ssi/random-str-msg/issues"
+    "url": "https://github.com/mon4ssi/random-msg-text/issues"
   },
-  "homepage": "https://github.com/mon4ssi/random-str-msg#readme",
+  "homepage": "https://github.com/mon4ssi/random-msg-text#readme",
   "bin": {
     "random-str-msg": "./bin/global.js"
   },
