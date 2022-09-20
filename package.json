@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mon4ssi/random-msg-text#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-msg-text": "./bin/global.js"
   },
   "preferGlobal": true
 }
