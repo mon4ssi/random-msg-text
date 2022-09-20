@@ -1,2 +1,2 @@
-# random-str-msg
- Random String Messages 
+# random-msg-text
+Random String Messages 
